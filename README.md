@@ -1,3 +1,6 @@
+操作手册，可以基于如下链接改：
+https://openshift-labs.github.io/starter-guides-html/
+
 # Lab - Getting Started with OpenShift for Developers
 
 * [Overview](#overview)
